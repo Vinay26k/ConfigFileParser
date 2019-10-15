@@ -1,2 +1,2 @@
-# ConfigurationParser
-Python Configuration Parser
+# ConfigFileParser
+Configuration Files Parser Utility Package
